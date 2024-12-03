@@ -1,1 +1,1 @@
-# TallerTypescript1
+Santiago Baquero - 202220396
